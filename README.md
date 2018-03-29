@@ -23,3 +23,13 @@ wifi网络加速，上网快人一步，月底不怕流量告急。
 一切都像你在电脑上使用一样，iPhone上也是如此。
 
 新闻、小说、视频，想怎么搜就怎么搜，想要获得更爽的上网体验，就用好快浏览器。
+
+
+版本说明 
+
+WKBrowser1.1 狐狸浏览器 下载地址: https://itunes.apple.com/cn/app/id1313655877?mt=8
+WKBrowser1.2 浏览器 下载地址: https://itunes.apple.com/cn/app/id1308933966?mt=8
+WKBrowser1.3 快搜浏览器	 下载地址: https://itunes.apple.com/cn/app/id1316314391?mt=8
+
+WKBrowser1.1 狐狸浏览器 下载地址: https://itunes.apple.com/cn/app/id1313655877?mt=8
+WKBrowser1.1 狐狸浏览器 下载地址: https://itunes.apple.com/cn/app/id1313655877?mt=8
