@@ -1,0 +1,91 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - AVOSCloud (7.1.0)
+  - DACircularProgress (2.3.1)
+  - FLAnimatedImage (1.0.12)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
+  - IQKeyboardManager (4.0.11)
+  - JCore (1.1.5)
+  - JKBaseKit (0.0.1)
+  - JPush (3.0.6):
+    - JCore (~> 1.1.1)
+  - LeanCloudFeedback (0.1.1):
+    - AVOSCloud
+  - Masonry (1.0.2)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - PYPhotoBrowser (1.5.1):
+    - DACircularProgress
+    - MBProgressHUD
+    - SDWebImage/GIF (~> 4.0.0)
+  - SDCycleScrollView (1.73):
+    - SDWebImage (~> 4.0.0)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+  - SDWebImage/GIF (4.0.0):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+  - TZImagePickerController (1.9.6)
+  - UMengAnalytics (4.2.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - AVOSCloud
+  - FMDB
+  - IQKeyboardManager (~> 4.0.10)
+  - JKBaseKit (from `/Users/lijiajian/Desktop/JKBaseManager`)
+  - JPush (~> 3.0.6)
+  - LeanCloudFeedback
+  - Masonry
+  - MBProgressHUD (~> 1.0.0)
+  - MJRefresh (~> 3.1.12)
+  - PYPhotoBrowser (~> 1.5.0)
+  - SDCycleScrollView (~> 1.66)
+  - SDWebImage (~> 4.0.0)
+  - TZImagePickerController (~> 1.9.6)
+  - UMengAnalytics
+
+EXTERNAL SOURCES:
+  JKBaseKit:
+    :path: /Users/lijiajian/Desktop/JKBaseManager
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  AVOSCloud: 8eebafb173f584c00a3ff68b0c98b9de3688da65
+  DACircularProgress: 4dd437c0fc3da5161cb289e07ac449493d41db71
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
+  IQKeyboardManager: 83eae5318483a34eb2069ef413d195b97605232e
+  JCore: 9bd9c770c877c583d98b90a68792b8361974c231
+  JKBaseKit: d40ae2d5b9fc1ba54c59c61deb75246667fbbc2e
+  JPush: c41be50eb1a574a66aeb68d237f00a4ec6ec3a82
+  LeanCloudFeedback: 686305ea196931c7eae49800c384e42d78408482
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  PYPhotoBrowser: 5f741373409c232137f12694d1bb2bf1a85da70b
+  SDCycleScrollView: d0fd5fe40a80918371fd8939214eb3be81033d83
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+  TZImagePickerController: 276dc7c0cc70da9ee354046474b405d87ef81c89
+  UMengAnalytics: ef8d45f94c0e5771dc364cf6a5731d9d3b101da2
+
+PODFILE CHECKSUM: a1b4bec95c04af53ae704fc7836e5a482311ed04
+
+COCOAPODS: 1.4.0.beta.2

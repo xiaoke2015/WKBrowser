@@ -1,0 +1,20 @@
+{
+  "name": "JKBaseKit",
+  "version": "0.0.1",
+  "summary": "Base JKBaseKit.",
+  "description": "基础框架，JKBaseKit ,视图View 分类 ，常见宏定义 ，基础ViewController ，NavigationController",
+  "homepage": "https://github.com/xiaoke2015/YDShareJob",
+  "license": "MIT",
+  "authors": {
+    "": "779454060@qq.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "./JKBaseKit",
+    "tag": "0.0.1"
+  },
+  "source_files": "JKBaseKit/*.{h,m}",
+  "public_header_files": "JKBaseKit/*.h"
+}

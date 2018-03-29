@@ -1,0 +1,43 @@
+//
+//  PrefixHeader.pch
+//  DGWebBrowser
+//
+//  Created by 李加建 on 2017/11/23.
+//  Copyright © 2017年 jack. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import <JKBaseKit/JKBaseKit.h>
+
+#import "Config.h"
+
+#import <UIImageView+WebCache.h>
+
+#import <MJRefresh/MJRefresh.h>
+
+#import <AVOSCloud/AVOSCloud.h>
+
+#import "HUDManager.h"
+
+typedef void (^ActionBlock)();
+
+typedef void (^MDArrayResultBlock)(NSArray * _Nullable objects, NSError * _Nullable error);
+
+
+#import "KKBootBarView.h"
+
+#import "KKHeadBarView.h"
+
+#import "RecordDataBase.h"
+
+#import "NetWorkManager.h"
+
+#import "UserManager.h"
+
+#endif /* PrefixHeader_pch */
