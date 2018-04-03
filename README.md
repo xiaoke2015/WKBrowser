@@ -30,9 +30,6 @@ wifi网络加速，上网快人一步，月底不怕流量告急。
 - WKBrowser 好快浏览器	      下载地址: https://itunes.apple.com/cn/app/id1308946668?mt=8 
 - WKBrowser1.1 狐狸浏览器      下载地址: https://itunes.apple.com/cn/app/id1313655877?mt=8 
 - WKBrowser1.2 浏览器         下载地址: https://itunes.apple.com/cn/app/id1308933966?mt=8
-- WKBrowser1.3 快搜浏览器	    下载地址: https://itunes.apple.com/cn/app/id1316314391?mt=8
+- DGWebBrowser 指尖浏览器	    下载地址: https://itunes.apple.com/cn/app/id1316833388?mt=8
 
-- WKBrowser1.3 快搜浏览器	    下载地址: https://itunes.apple.com/cn/app/id1316314391?mt=8
-- WKBrowser1.3 快搜浏览器	    下载地址: https://itunes.apple.com/cn/app/id1316314391?mt=8
-- WKBrowser1.3 快搜浏览器	    下载地址: https://itunes.apple.com/cn/app/id1316314391?mt=8
 
